@@ -1,0 +1,70 @@
+1. Cosmic Architect of Divine Geometry
+
+Prompt:
+A transcendent celestial architect standing within an infinite temple of sacred geometry, surrounded by glowing Metatron’s Cube, Flower of Life, Sri Yantra, golden ratio spirals, crystalline energy grids, fractal mandalas, luminous plasma lines, cosmic starscapes, ethereal nebulae, ancient esoteric engravings, hyper-detailed symmetrical composition, holographic energy fields, divine illumination, ultra-detailed textures, mystical atmosphere, cinematic volumetric lighting, surreal spiritual realism, 8k masterpiece
+
+2. Ascension Through the Geometric Portal
+
+Prompt:
+A lone spiritual traveler ascending through an enormous multidimensional portal composed of sacred geometric forms, Merkaba star tetrahedrons, spinning toroidal fields, Fibonacci spirals, glowing runes, celestial architecture, ancient golden symbols, interwoven crystalline structures, radiant chakras, divine cosmic energy, highly intricate patterns, surreal visionary art, photorealistic details, vibrant prismatic light, transcendental atmosphere, ultra-complex design, sacred symmetry
+
+3. The Infinite Temple of Creation
+
+Prompt:
+A colossal divine temple floating in the void, constructed entirely from sacred geometry, golden lattices, hexagonal fractals, Flower of Life domes, radiant crystal pyramids, sacred mathematical patterns, glowing white-gold energy, cosmic consciousness, multidimensional architecture, infinite repeating structures, detailed ornamental carvings, spiritual technology, celestial harmonics, dramatic god rays, ultra-fine detail, visionary sci-fi mysticism
+
+4. Divine Feminine Mandala Consciousness
+
+Prompt:
+A goddess of cosmic wisdom emerging from an intricate sacred mandala, adorned with luminous geometric jewelry, crystalline Merkaba halo, lotus fractals, sacred circles, moon phases, alchemical sigils, radiant gold and indigo aura, symmetrical divine composition, hyper-detailed facial features, sacred geometry integrated into body and surroundings, celestial energy streams, visionary realism, ultra-detailed spiritual masterpiece
+
+5. Akashic Records Geometric Library
+
+Prompt:
+An endless interdimensional library containing floating sacred geometric scrolls, glowing Platonic solids, rotating energy cubes, infinite knowledge encoded in fractals, celestial manuscripts, crystalline pathways, divine mathematical equations suspended in air, mystical blue-gold illumination, ethereal cosmic archives, ultra-complex architectural detail, sacred esoteric atmosphere, surreal spiritual grandeur
+
+6. The Serpent of Universal Mathematics
+
+Prompt:
+A colossal cosmic serpent woven from sacred geometry patterns, scales composed of tessellated mandalas, glowing Fibonacci spirals, ouroboros symbolism, celestial energy veins, radiant fractal body, stars and galaxies embedded in form, ancient mystical symbols, divine mathematics, hyper-detailed textures, visionary psychedelic realism, ultra-sharp detail, spiritual power, multidimensional composition
+
+7. Enlightenment Beneath the Geometric Tree
+
+Prompt:
+A meditating sage beneath the Tree of Life, whose branches form sacred geometry patterns, glowing Flower of Life leaves, fractal roots, luminous energy currents, Merkaba fields, chakra alignments, cosmic sky, celestial constellations, intricate divine patterns, serene mystical realism, highly detailed spiritual environment, transcendental beauty, golden and violet hues
+
+8. Sacred Geometry Dragon of the Ether
+
+Prompt:
+A majestic dragon formed from crystalline sacred geometry, composed of glowing polygons, fractal wings, radiant golden circuitry, Metatron’s Cube embedded in chest, cosmic fire breath, celestial scales, ultra-detailed mystical fantasy realism, divine mathematical precision, intricate spiritual symbolism, vivid iridescent lighting, powerful symmetrical composition
+
+9. Universal Chakra Machine
+
+Prompt:
+A massive divine machine aligned with the seven chakras, built from sacred geometry mechanisms, rotating torus fields, spinning Platonic solids, radiant energy conduits, celestial engineering, mystical biomechanical design, holographic spiritual technology, luminous fractal machinery, ultra-complex sacred structures, visionary esoteric science fiction
+
+10. Quantum Soul Blueprint
+
+Prompt:
+A human soul blueprint visualized as sacred geometry, transparent energetic body with glowing chakra systems, embedded Sri Yantra, toroidal heart field, golden ratio anatomy, fractal nervous system, divine mathematical overlays, celestial consciousness, radiant spiritual architecture, hyper-detailed energy patterns, ultra-realistic visionary art
+
+Enhancement Keywords for FLUX.1
+
+You can append these to intensify results:
+
+Add-ons:
+ultra-detailed, hypermaximalist, sacred symmetry, divine illumination, fractal complexity, visionary realism, photorealistic textures, multidimensional, cinematic lighting, volumetric glow, esoteric symbolism, ornate detail, 8k, masterpiece, holographic energy, celestial architecture
+
+Negative Prompt Suggestions
+
+Negative Prompt:
+blurry, low detail, asymmetry, deformed anatomy, bad proportions, flat lighting, oversaturated, text, watermark, cropped, duplicate elements, noisy background, low resolution
+
+For even stronger outputs in FLUX, prioritize:
+
+Symmetry
+Layered geometric terminology
+Lighting descriptors
+Esoteric symbols
+Architectural scale
+Fractal and mathematical language
